@@ -1,0 +1,16 @@
+; Comment line
+
+STRING_VAR1=localhost
+STRING_VAR2="127.0.0.1"
+
+# Comment line
+
+BOOL_VAR1=false
+
+BOOL_VAR4=on
+
+INT_VAR2=+345
+INT_VAR3=-345
+
+FLOAT_VAR2=+345.0
+FLOAT_VAR3=-345.0
